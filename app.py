@@ -72,7 +72,7 @@ def delete_contact(contacts):
             print("Contact deleted successfully!")
             return
     print("Contact not found.")
-
+#will be optimized
 def main():
     contacts = []
     
